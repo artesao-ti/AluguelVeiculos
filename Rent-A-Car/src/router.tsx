@@ -3,8 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Feather } from "@expo/vector-icons";
 
-import Home from "./pages/Home";
-import Details from "./pages/details";
+import Home from "./pages/home/home";
+import Details from "./pages/details/details";
 
 const Stack = createNativeStackNavigator();
 
