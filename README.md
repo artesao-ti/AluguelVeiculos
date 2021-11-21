@@ -1,4 +1,4 @@
-# Projeto Guaxinin
+# Projeto Guaxinin v2
 
 Um parágrafo da descrição do projeto vai aqui
 
