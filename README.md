@@ -10,12 +10,9 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
-node
-expo
-MySQL
-
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+instalação: node
+instalação: expo
+instalação: MySQL
 
 ## ⚙️ Executando os testes
 
