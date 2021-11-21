@@ -2,7 +2,7 @@
 
 Um parágrafo da descrição do projeto vai aqui
 
-## 🚀 Começando
+## 🚀 Começando, tente começar como um estagiário
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
