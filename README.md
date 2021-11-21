@@ -1,4 +1,4 @@
-# Título do projeto
+# Projeto Guaxinin
 
 Um parágrafo da descrição do projeto vai aqui
 
